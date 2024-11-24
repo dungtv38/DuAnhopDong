@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\api\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|solutionrelative:api\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\api\\services\\hopdongservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|solutionrelative:api\\services\\hopdongservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\dbcontext\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|solutionrelative:dbcontext\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\api\\iserviecs\\ihopdongservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|solutionrelative:api\\iserviecs\\ihopdongservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\dbcontext\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|solutionrelative:dbcontext\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\dbcontext\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|solutionrelative:dbcontext\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\dbcontext\\models\\hopdonglichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|solutionrelative:dbcontext\\models\\hopdonglichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784DEF1-75BD-471D-864E-B13A8714C912}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|c:\\users\\administrator\\source\\repos\\duan_hopdong\\dbcontext\\dbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00AF0A76-CF4C-430C-BFA2-9E2DF5A6434F}|DBcontext\\DBcontext.csproj|solutionrelative:dbcontext\\dbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Viewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Viewmodel.cs",
+              "RelativeDocumentMoniker": "DBcontext\\Viewmodel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Viewmodel.cs",
+              "RelativeToolTip": "DBcontext\\Viewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:16:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HopdongServices.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Services\\HopdongServices.cs",
+              "RelativeDocumentMoniker": "API\\Services\\HopdongServices.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Services\\HopdongServices.cs",
+              "RelativeToolTip": "API\\Services\\HopdongServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:49:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHopDongServices.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Iserviecs\\IHopDongServices.cs",
+              "RelativeDocumentMoniker": "API\\Iserviecs\\IHopDongServices.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Iserviecs\\IHopDongServices.cs",
+              "RelativeToolTip": "API\\Iserviecs\\IHopDongServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:46:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hopdong.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\Hopdong.cs",
+              "RelativeDocumentMoniker": "DBcontext\\Models\\Hopdong.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\Hopdong.cs",
+              "RelativeToolTip": "DBcontext\\Models\\Hopdong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:44:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:59:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T06:04:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HopdongLichsu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\HopdongLichsu.cs",
+              "RelativeDocumentMoniker": "DBcontext\\Models\\HopdongLichsu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\HopdongLichsu.cs",
+              "RelativeToolTip": "DBcontext\\Models\\HopdongLichsu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:44:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HopDongController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Controllers\\HopDongController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\HopDongController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\API\\Controllers\\HopDongController.cs",
+              "RelativeToolTip": "API\\Controllers\\HopDongController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:59:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DBcontext\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DBcontext\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAArwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:44:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBcontext",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\DBcontext.csproj",
+              "RelativeDocumentMoniker": "DBcontext\\DBcontext.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DUAN_HopDong\\DBcontext\\DBcontext.csproj",
+              "RelativeToolTip": "DBcontext\\DBcontext.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T05:34:22.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
