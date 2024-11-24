@@ -1,7 +1,7 @@
 ﻿using API.Iserviecs;
 using API.Services;
-using DBcontext;
 using DBcontext.Models;
+using DBcontext.Viewmodel;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers

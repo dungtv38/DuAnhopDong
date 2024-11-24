@@ -1,5 +1,5 @@
-﻿using DBcontext;
-using DBcontext.Models;
+﻿using DBcontext.Models;
+using DBcontext.Viewmodel;
 
 namespace API.Iserviecs
 {

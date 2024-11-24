@@ -1,6 +1,6 @@
 ﻿using API.Iserviecs;
-using DBcontext;
 using DBcontext.Models;
+using DBcontext.Viewmodel;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Services
